@@ -1,2 +1,2 @@
-# CI1164---Computa-o-Cient-fica
+# CI1164-Computaco-Cientifica
 Solução de Equações Diferenciais Ordinárias e Parciais
